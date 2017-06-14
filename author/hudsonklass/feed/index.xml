@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hudson Klass &#8211; Humans Robotics</title>
+	<atom:link href="http://humans4501.github.io/author/hudsonklass/feed/" rel="self" type="application/rss+xml" />
+	<link>http://humans4501.github.io</link>
+	<description>FRC Team 4501</description>
+	<lastBuildDate>Thu, 02 Feb 2017 01:13:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>HUMAN UPDATE #2</title>
+		<link>http://humans4501.github.io/2017/02/02/human-update-2/</link>
+		<comments>http://humans4501.github.io/2017/02/02/human-update-2/#respond</comments>
+		<pubDate>Thu, 02 Feb 2017 00:45:11 +0000</pubDate>
+		<dc:creator><![CDATA[Hudson Klass]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://humans4501.github.io/?p=170</guid>
+		<description><![CDATA[Hello, Humans! We are smack dab in the middle of Week 4 out of 6. Before we know it we&#8217;ll have just two weeks on the clock to finish our [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hello, Humans!<br />
+We are smack dab in the middle of Week 4 out of 6. Before we know it we&#8217;ll have just two weeks on the clock to finish our robot. Right now we have two gear picking up prototypes, the arm, the subject of the video below, that&#8217;s already picking up gears. The second in &#8220;The Claw,&#8221; which will be operational by the end of the week. Trent and Ru have made significant progress on a prototype climbing mechanism, and soon the robot will include that Janeiro has been working tirelessly on. We&#8217;ll be spending Sunday watching the big game and finishing several our prototypes. We&#8217;re ready to work longer and harder as we make our way to Weeks 5 and 6.<br />
+GO HUMANS!</p>
+<div style="width: 1140px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-170-1" width="1140" height="641" preload="metadata" controls="controls"><source type="video/mp4" src="http://humans4501.github.io/wp-content/uploads/2017/02/VID_20170130_174126.mp4?_=1" /><a href="http://humans4501.github.io/wp-content/uploads/2017/02/VID_20170130_174126.mp4">http://humans4501.github.io/wp-content/uploads/2017/02/VID_20170130_174126.mp4</a></video></div>
+]]></content:encoded>
+			<wfw:commentRss>http://humans4501.github.io/2017/02/02/human-update-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://humans4501.github.io/wp-content/uploads/2017/02/VID_20170130_174126.mp4" length="19096154" type="video/mp4" />
+		</item>
+	</channel>
+</rss>

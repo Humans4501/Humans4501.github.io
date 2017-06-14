@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dk@danklass.com &#8211; Humans Robotics</title>
+	<atom:link href="http://humans4501.github.io/author/dkdanklass-com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://humans4501.github.io</link>
+	<description>FRC Team 4501</description>
+	<lastBuildDate>Thu, 02 Feb 2017 01:13:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Week 1: Update 1</title>
+		<link>http://humans4501.github.io/2017/01/14/hello-world/</link>
+		<comments>http://humans4501.github.io/2017/01/14/hello-world/#comments</comments>
+		<pubDate>Sat, 14 Jan 2017 06:37:37 +0000</pubDate>
+		<dc:creator><![CDATA[dk@danklass.com]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://humans4501.github.io/?p=1</guid>
+		<description><![CDATA[Hello Humans! As week one of six comes to a close, it&#8217;s time to share with our extended Humans family about the goings on on the team. We&#8217;re currently working [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hello Humans!<br />
+As week one of six comes to a close, it&#8217;s time to share with our extended Humans family about the goings on on the team. We&#8217;re currently working on several gear-placing prototypes and scored our first gear today with an early prototype. Michael and Antonio have almost completed a preliminary shooting mechanism. The programmers have set up vision tracking so that our robot can aim on its own. We&#8217;re feeling optimistic and excited as Week 2 approaches.</p>
+<p>GO HUMANS!</p>
+
+<a href='http://humans4501.github.io/2017/01/14/hello-world/16003261_768924349923020_4104865104451356571_n/'><img width="300" height="225" src="http://humans4501.github.io/wp-content/uploads/2016/11/16003261_768924349923020_4104865104451356571_n-300x225.jpg" class="attachment-medium size-medium" alt="16003261_768924349923020_4104865104451356571_n" srcset="http://humans4501.github.io/wp-content/uploads/2016/11/16003261_768924349923020_4104865104451356571_n-300x225.jpg 300w, http://humans4501.github.io/wp-content/uploads/2016/11/16003261_768924349923020_4104865104451356571_n-768x576.jpg 768w, http://humans4501.github.io/wp-content/uploads/2016/11/16003261_768924349923020_4104865104451356571_n-750x563.jpg 750w, http://humans4501.github.io/wp-content/uploads/2016/11/16003261_768924349923020_4104865104451356571_n-400x300.jpg 400w, http://humans4501.github.io/wp-content/uploads/2016/11/16003261_768924349923020_4104865104451356571_n-430x323.jpg 430w, http://humans4501.github.io/wp-content/uploads/2016/11/16003261_768924349923020_4104865104451356571_n-150x113.jpg 150w, http://humans4501.github.io/wp-content/uploads/2016/11/16003261_768924349923020_4104865104451356571_n-100x75.jpg 100w, http://humans4501.github.io/wp-content/uploads/2016/11/16003261_768924349923020_4104865104451356571_n.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+
+]]></content:encoded>
+			<wfw:commentRss>http://humans4501.github.io/2017/01/14/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
