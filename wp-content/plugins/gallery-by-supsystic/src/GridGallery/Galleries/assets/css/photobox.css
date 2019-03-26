@@ -10,7 +10,7 @@
     display: block;
 }
 #pbOverlay.msie{ background-color:rgba(0,0,0,.6); }
-.msie.pbLoading .pbWrapper{ background:url('http://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Galleries/assets/images/loading.gif') no-repeat center center; }
+.msie.pbLoading .pbWrapper{ background:url('https://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Galleries/assets/images/loading.gif') no-repeat center center; }
 
 @keyframes pbLoaderFrames{ 50%{ height:5px; } }
 @-webkit-keyframes pbLoaderFrames{ 50%{ height:5px; } }

@@ -48,7 +48,7 @@
             $(this.element).off('mouseenter.sliphover', target).on('mouseenter.sliphover', target, function(event) {
                 //fix #9 https://github.com/wayou/SlipHover/issues/9
                 //use this instead of event.target for sometimes the event.target is not retriving the right target we want
-                //http://stackoverflow.com/questions/9838137/event-target-jquery-on-mousedown-up-is-not-giving-the-dom-specified-by-selecto
+                //https://stackoverflow.com/questions/9838137/event-target-jquery-on-mousedown-up-is-not-giving-the-dom-specified-by-selecto
                 var $element = $(this),
                     $overlayContainer = that.createContainer($element);
 
@@ -215,7 +215,7 @@
             });
         },
         getDirection: function($target, event) {
-            //reference: http://stackoverflow.com/questions/3627042/jquery-animation-for-a-hover-with-mouse-direction
+            //reference: https://stackoverflow.com/questions/3627042/jquery-animation-for-a-hover-with-mouse-direction
             var w = $target.width(),
                 h = $target.height(),
                 x = (event.pageX - $target.offset().left - (w / 2)) * (w > h ? (h / w) : 1),

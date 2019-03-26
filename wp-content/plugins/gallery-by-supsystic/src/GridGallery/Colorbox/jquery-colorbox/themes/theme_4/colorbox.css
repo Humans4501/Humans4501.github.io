@@ -7,21 +7,21 @@
 .theme_4 #sggCboxTooltip {left: 0; bottom: 45px; margin: 0 25px; padding: 5px 10px; background: rgba(255, 255, 255,0.5); color: #000; right: 0; text-align: center;}
 .theme_4-overlay{background:#fff;}
 .theme_4{outline:0;}
-.theme_4 #cboxTopLeft{width:25px; height:25px; background:url(http://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border1.png) no-repeat 0 0;}
-.theme_4 #cboxTopCenter{height:25px; background:url(http://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border1.png) repeat-x 0 -50px;}
-.theme_4 #cboxTopRight{width:25px; height:25px; background:url(http://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border1.png) no-repeat -25px 0;}
-.theme_4 #cboxBottomLeft{width:25px; height:25px; background:url(http://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border1.png) no-repeat 0 -25px;}
-.theme_4 #cboxBottomCenter{height:25px; background:url(http://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border1.png) repeat-x 0 -75px;}
-.theme_4 #cboxBottomRight{width:25px; height:25px; background:url(http://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border1.png) no-repeat -25px -25px;}
-.theme_4 #cboxMiddleLeft{width:25px; background:url(http://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border2.png) repeat-y 0 0;}
-.theme_4 #cboxMiddleRight{width:25px; background:url(http://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border2.png) repeat-y -25px 0;}
+.theme_4 #cboxTopLeft{width:25px; height:25px; background:url(https://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border1.png) no-repeat 0 0;}
+.theme_4 #cboxTopCenter{height:25px; background:url(https://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border1.png) repeat-x 0 -50px;}
+.theme_4 #cboxTopRight{width:25px; height:25px; background:url(https://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border1.png) no-repeat -25px 0;}
+.theme_4 #cboxBottomLeft{width:25px; height:25px; background:url(https://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border1.png) no-repeat 0 -25px;}
+.theme_4 #cboxBottomCenter{height:25px; background:url(https://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border1.png) repeat-x 0 -75px;}
+.theme_4 #cboxBottomRight{width:25px; height:25px; background:url(https://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border1.png) no-repeat -25px -25px;}
+.theme_4 #cboxMiddleLeft{width:25px; background:url(https://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border2.png) repeat-y 0 0;}
+.theme_4 #cboxMiddleRight{width:25px; background:url(https://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/border2.png) repeat-y -25px 0;}
 .theme_4 #cboxContent{background:#fff; overflow:hidden;}
 .theme_4 .cboxIframe{background:#fff;}
 .theme_4 #cboxError{padding:50px; border:1px solid #ccc;}
 .theme_4 #cboxLoadedContent{margin-bottom:20px;}
 .theme_4 #cboxTitle{bottom:-1px; left: 200px; right: 156px; text-align:center; color:#999;font-size: 14px;}
 .theme_4 #cboxCurrent{position:absolute; bottom:0px; left:103px; color:#999;font-size: 12px;line-height: 1;}
-.theme_4 #cboxLoadingOverlay{background:#fff url(http://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/loading.gif) no-repeat 5px 5px;}
+.theme_4 #cboxLoadingOverlay{background:#fff url(https://humans4501.github.io/wp-content/plugins/gallery-by-supsystic/src/GridGallery/Colorbox/jquery-colorbox/themes/theme_4/images/loading.gif) no-repeat 5px 5px;}
 
 /* these elements are buttons, and may need to have additional styles reset to avoid unwanted base styles */
 .theme_4 #cboxPrevious, .theme_4 #cboxNext, .theme_4 #cboxSlideshow, .theme_4 #cboxClose {border:0; padding:0; margin:0; overflow:visible; width:auto; background:none; line-height: 1;font-size: 12px; text-align: left;}
@@ -36,7 +36,7 @@
 /*
   The following fixes a problem where IE7 and IE8 replace a PNG's alpha transparency with a black fill
   when an alpha filter (opacity change) is set on the element or ancestor element.  This style is not applied to or needed in IE9.
-  See: http://jacklmoore.com/notes/ie-transparency-problems/
+  See: https://jacklmoore.com/notes/ie-transparency-problems/
 */
 .cboxIE #cboxTopLeft,
 .cboxIE #cboxTopCenter,

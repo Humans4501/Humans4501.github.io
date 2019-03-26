@@ -1251,7 +1251,7 @@
                 $el.children('div').addClass('front').addClass('face');
                 $el.children('figcaption').addClass('back').addClass('face');
                 $el.html('<div class="box-3d-cube-scene"><div class="box-3d-cube">' + $el.html() + '</div></div>');
-                // $el.html("<div class='box-3d-cube-scene'><div class='box-3d-cube'><div class='front face'><img src='http://placehold.it/"+cubeWidth+"x"+cubeHeight+"/' alt=''></div><div class='back face'><div>This is back</div></div></div></div>");
+                // $el.html("<div class='box-3d-cube-scene'><div class='box-3d-cube'><div class='front face'><img src='https://placehold.it/"+cubeWidth+"x"+cubeHeight+"/' alt=''></div><div class='back face'><div>This is back</div></div></div></div>");
 
                 var perspective = Math.max(cubeHeight,cubeWidth) * 2;
                 var transformOrigin = '50% 50% -' + Math.round(cubeHeight/2) + 'px';
