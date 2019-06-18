@@ -1,6 +1,6 @@
 /*!
     photobox v1.9.9
-    (c) 2013 Yair Even Or <http://dropthebit.com>
+    (c) 2013 Yair Even Or <https://dropthebit.com>
 
     MIT-style license.
 */
@@ -971,7 +971,7 @@
                 options.afterClose(overlay);
     }
 
-    /*! Copyright (c) 2013 Brandon Aaron (http://brandon.aaron.sh)
+    /*! Copyright (c) 2013 Brandon Aaron (https://brandon.aaron.sh)
      * Licensed under the MIT License (LICENSE.txt).
      *
      * Version: 3.1.11
